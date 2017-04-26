@@ -1,4 +1,4 @@
-brightness=100
+brightness=250
 R=0
 G=0
 B=0
@@ -7,7 +7,7 @@ LED_COUNT=24
 onTime=9
 offTime=18
 checkTime=60
-highAlarm=13.67
+highAlarm=13.87
 lowAlarm=12.7
 Pulse=False
 Pulse_on=10.5
